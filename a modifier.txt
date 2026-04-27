@@ -1,0 +1,4 @@
+confirmer inscription
+inscription stagiaire
+session de stage
+mise a jour module
