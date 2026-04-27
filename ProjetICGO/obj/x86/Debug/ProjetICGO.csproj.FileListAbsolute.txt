@@ -1,0 +1,445 @@
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.Cache
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\Formation\CSharp\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.Cache
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.Cache
+C:\Users\aguatteri\Downloads\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+C:\Users\aguatteri\Downloads\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csprojResolveAssemblyReference.cache
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.Cache
+E:\BtsSio\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+E:\BtsSio\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csprojResolveAssemblyReference.cache
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csprojResolveAssemblyReference.cache
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.Cache
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrigeServeurDistant\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.Cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGOEleve\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.Cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csprojResolveAssemblyReference.cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CopyComplete
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csprojAssemblyReference.cache
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.cache
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CopyComplete
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csprojAssemblyReference.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csprojAssemblyReference.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CopyComplete
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\BlocCompetences\AtelierPro3\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe.config
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.AssemblyReference.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.SuggestedBindingRedirects.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CopyComplete
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe.config
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.AssemblyReference.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.SuggestedBindingRedirects.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CopyComplete
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGO\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe.config
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.AssemblyReference.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.SuggestedBindingRedirects.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CopyComplete
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\ProjetICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.exe.config
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.AssemblyReference.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.SuggestedBindingRedirects.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CopyComplete
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.exe.config
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.AssemblyReference.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.SuggestedBindingRedirects.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CopyComplete
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.exe.config
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.AssemblyReference.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.Up2Date
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.AssemblyReference.cache
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.SuggestedBindingRedirects.cache
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.exe
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.pdb
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.exe.config
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.exe
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\bin\Debug\ProjetICGO.pdb
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGO.dll
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGODAO.dll
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGODAO.pdb
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\bin\Debug\BiblioICGO.pdb
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterCompetence.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAffecterModule.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmAgence.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmCompetence.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConfirmerInscription.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmConnexion.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmFormateur.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmInscription.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmMenu.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmModule.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmSessionStage.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStage.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.frmStagiaire.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.Properties.Resources.resources
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.GenerateResource.cache
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CoreCompileInputs.cache
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\ProjetICGO\obj\x86\Debug\ProjetICGO.csproj.CopyComplete
