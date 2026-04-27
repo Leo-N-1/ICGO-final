@@ -1,0 +1,131 @@
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+C:\Users\aguatteri\Documents\aguatteri\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csprojResolveAssemblyReference.cache
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+C:\Users\aguatteri\Documents\aguatteri\Test\ICGOAppliCorrigeServeurDistant\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csprojResolveAssemblyReference.cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharp\ICGOAppliCorrige\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csprojResolveAssemblyReference.cache
+D:\BTS SIO\Formation\CSharp\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharp\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharp\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Formation\CSharp\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Formation\CSharp\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharp\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharp\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csprojResolveAssemblyReference.cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csprojResolveAssemblyReference.cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csprojResolveAssemblyReference.cache
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csprojAssemblyReference.cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CopyComplete
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+G:\btsSio\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+G:\btsSio\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+G:\btsSio\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+G:\btsSio\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+G:\btsSio\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csprojAssemblyReference.cache
+G:\btsSio\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+G:\btsSio\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CopyComplete
+G:\btsSio\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+G:\btsSio\Modules\PPE3&PPE4\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csprojAssemblyReference.cache
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CopyComplete
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+D:\BTS SIO\Formation\CSharpConversionVersion2010-2017\PPE3\ICGO\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.AssemblyReference.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CopyComplete
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.AssemblyReference.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CopyComplete
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionAccesseurs\ICGOAppliEleve\BiblioICGODAO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.AssemblyReference.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CopyComplete
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+G:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\VersionEquipeAccesseurs\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.AssemblyReference.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CopyComplete
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.AssemblyReference.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioIC.1B9D3F71.Up2Date
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+D:\BTS SIO\BlocCompetences\AtelierPro3\VS-2022\ICGOEleve\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGODAO.dll
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGODAO.pdb
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGO.dll
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\BiblioICGODAO\bin\Debug\BiblioICGO.pdb
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.AssemblyReference.cache
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CoreCompileInputs.cache
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.csproj.CopyComplete
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.dll
+F:\icgo\Programmation-20250912\ProjetEquipeICGO\ProjetEquipeICGO\BiblioICGODAO\obj\Debug\BiblioICGODAO.pdb
